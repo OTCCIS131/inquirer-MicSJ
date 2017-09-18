@@ -1,0 +1,23 @@
+{
+  "name": "inquirer-micsj",
+  "version": "1.0.0",
+  "description": "inquirer-MicSJ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/inquirer-MicSJ.git"
+  },
+  "author": "Michal Jamerson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/inquirer-MicSJ/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/inquirer-MicSJ#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "inquirer": "^3.3.0"
+  }
+}
